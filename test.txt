@@ -2,3 +2,4 @@ my first project
 new line added
 second line
 added one more line
+git add .
